@@ -1,0 +1,30 @@
+D:\github\ปี 2 เทอม 2\GDM222_HomeWork02\No.2\bin\Debug\net6.0\No.2.exe
+D:\github\ปี 2 เทอม 2\GDM222_HomeWork02\No.2\bin\Debug\net6.0\No.2.deps.json
+D:\github\ปี 2 เทอม 2\GDM222_HomeWork02\No.2\bin\Debug\net6.0\No.2.runtimeconfig.json
+D:\github\ปี 2 เทอม 2\GDM222_HomeWork02\No.2\bin\Debug\net6.0\No.2.dll
+D:\github\ปี 2 เทอม 2\GDM222_HomeWork02\No.2\bin\Debug\net6.0\No.2.pdb
+D:\github\ปี 2 เทอม 2\GDM222_HomeWork02\No.2\obj\Debug\net6.0\No.2.csproj.AssemblyReference.cache
+D:\github\ปี 2 เทอม 2\GDM222_HomeWork02\No.2\obj\Debug\net6.0\No.2.GeneratedMSBuildEditorConfig.editorconfig
+D:\github\ปี 2 เทอม 2\GDM222_HomeWork02\No.2\obj\Debug\net6.0\No.2.AssemblyInfoInputs.cache
+D:\github\ปี 2 เทอม 2\GDM222_HomeWork02\No.2\obj\Debug\net6.0\No.2.AssemblyInfo.cs
+D:\github\ปี 2 เทอม 2\GDM222_HomeWork02\No.2\obj\Debug\net6.0\No.2.csproj.CoreCompileInputs.cache
+D:\github\ปี 2 เทอม 2\GDM222_HomeWork02\No.2\obj\Debug\net6.0\No.2.dll
+D:\github\ปี 2 เทอม 2\GDM222_HomeWork02\No.2\obj\Debug\net6.0\refint\No.2.dll
+D:\github\ปี 2 เทอม 2\GDM222_HomeWork02\No.2\obj\Debug\net6.0\No.2.pdb
+D:\github\ปี 2 เทอม 2\GDM222_HomeWork02\No.2\obj\Debug\net6.0\No.2.genruntimeconfig.cache
+D:\github\ปี 2 เทอม 2\GDM222_HomeWork02\No.2\obj\Debug\net6.0\ref\No.2.dll
+D:\github\GDM222_HomeWork02\No.2\obj\Debug\net6.0\No.2.csproj.AssemblyReference.cache
+D:\github\GDM222_HomeWork02\No.2\obj\Debug\net6.0\No.2.GeneratedMSBuildEditorConfig.editorconfig
+D:\github\GDM222_HomeWork02\No.2\obj\Debug\net6.0\No.2.AssemblyInfoInputs.cache
+D:\github\GDM222_HomeWork02\No.2\obj\Debug\net6.0\No.2.AssemblyInfo.cs
+D:\github\GDM222_HomeWork02\No.2\obj\Debug\net6.0\No.2.csproj.CoreCompileInputs.cache
+D:\github\GDM222_HomeWork02\No.2\obj\Debug\net6.0\No.2.dll
+D:\github\GDM222_HomeWork02\No.2\obj\Debug\net6.0\refint\No.2.dll
+D:\github\GDM222_HomeWork02\No.2\obj\Debug\net6.0\No.2.pdb
+D:\github\GDM222_HomeWork02\No.2\bin\Debug\net6.0\No.2.exe
+D:\github\GDM222_HomeWork02\No.2\bin\Debug\net6.0\No.2.deps.json
+D:\github\GDM222_HomeWork02\No.2\bin\Debug\net6.0\No.2.runtimeconfig.json
+D:\github\GDM222_HomeWork02\No.2\bin\Debug\net6.0\No.2.dll
+D:\github\GDM222_HomeWork02\No.2\bin\Debug\net6.0\No.2.pdb
+D:\github\GDM222_HomeWork02\No.2\obj\Debug\net6.0\No.2.genruntimeconfig.cache
+D:\github\GDM222_HomeWork02\No.2\obj\Debug\net6.0\ref\No.2.dll
